@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi It's Samdani here 👋
 
 # 💻 Tech Stack:
 
