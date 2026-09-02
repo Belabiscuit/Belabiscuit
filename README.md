@@ -69,6 +69,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=touhidcodes&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Tetris animation" />
+</div>
+
 <br/>
 
 <div align="center">
