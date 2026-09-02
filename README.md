@@ -24,7 +24,6 @@
 [![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman,docker)](https://github.com/touhidcodes)
 
 
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" alt="Activity Graph" />
 </div>
