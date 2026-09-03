@@ -9,8 +9,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=touhidcodes&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/touhidcodes?style=flat-square&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Belabiscuit&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Belabiscuit?style=flat-square&color=blue" alt="Followers" />
 </div>
 
 <br/>
@@ -28,37 +28,37 @@
 ## 💻 Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,c,cpp,py)](https://github.com/touhidcodes)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,c,cpp,py)](https://github.com/Belabiscuit)
 
 ### CSS Frameworks & Libraries
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/touhidcodes)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/Belabiscuit)
 
 ### JavaScript Frameworks & Libraries
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express,nestjs)](https://github.com/touhidcodes)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express,nestjs)](https://github.com/Belabiscuit)
 
 ### Database & Model
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase)](https://github.com/touhidcodes)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase)](https://github.com/Belabiscuit)
 
 ### Deployment Platform
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/touhidcodes)
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/Belabiscuit)
 
 ### Design & Graphics
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/touhidcodes)
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/Belabiscuit)
 
 ### Tools & Technologies
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman,docker)](https://github.com/touhidcodes)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman,docker)](https://github.com/Belabiscuit)
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=touhidcodes&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Belabiscuit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Belabiscuit&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=touhidcodes&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Belabiscuit&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -66,11 +66,15 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=touhidcodes&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Belabiscuit&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
+<!--
+  Snake animation — stays broken until you do a ONE-TIME setup in your
+  own GitHub account (see instructions in chat below the file).
+-->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Tetris animation" />
+  <img src="https://raw.githubusercontent.com/Belabiscuit/Belabiscuit/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
