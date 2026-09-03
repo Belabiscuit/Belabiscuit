@@ -50,35 +50,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Belabiscuit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Belabiscuit&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Belabiscuit&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Belabiscuit&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
-<!--
-  Snake animation — stays broken until you do a ONE-TIME setup in your
-  own GitHub account (see instructions in chat below the file).
--->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Belabiscuit/Belabiscuit/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
